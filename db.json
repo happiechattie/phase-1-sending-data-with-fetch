@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,101 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 1
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 2
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 3
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 4
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 5
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 6
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 7
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 8
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 9
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 10
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 11
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 12
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 13
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 14
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 15
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 16
+    },
+    {
+      "userName": "NAME",
+      "userEmail": "EMAIL",
+      "id": 17
+    },
+    {
+      "id": 18
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
